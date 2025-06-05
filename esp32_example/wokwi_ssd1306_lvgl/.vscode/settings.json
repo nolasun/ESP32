@@ -1,0 +1,7 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "lvgl.h": "c"
+  }
+}
